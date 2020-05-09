@@ -1,6 +1,6 @@
 {
   "name": "jsmaker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make a javascript module from any file",
   "main": "index.js",
   "bin": {
